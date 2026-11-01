@@ -20,7 +20,7 @@ import com.example.lab72.ui.components.StarRating
 data class CourseRatingUiState(
     val code: String = "",
     val stars: Float = 0f
-)
+)//
 
 @Composable
 fun CourseRatingScreen(

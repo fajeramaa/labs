@@ -1,7 +1,7 @@
 package com.example.lab72.ui.components
 
 
-
+//
 
 import android.widget.RatingBar
 import androidx.compose.runtime.Composable
